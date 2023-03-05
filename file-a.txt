@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Hello..
+dhx xnvbn k
+=======
+Helloccc
+ncv cghm;hxcnvbm mv
+>>>>>>> new-feature
